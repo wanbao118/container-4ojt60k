@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "wanbao118",
+  "repo": "container-4ojt60k",
+  "name": "wanbao118",
+  "email": "wanbao118@hotmail.com",
+}
